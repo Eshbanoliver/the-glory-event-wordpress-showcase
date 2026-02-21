@@ -19,7 +19,6 @@ Custom WordPress website developed for The Glory Event, a creative event managem
 - Testimonials section with real client feedback praising wedding, birthday, and family event decorations, management quality, and overall experience
 - Gallery of past events (decor setups, lighting, floral arrangements)
 - FAQ section covering services, customization, pricing, and event types
-- Contact/Appointment section with WhatsApp (+91 97999 99109) and inquiry/booking form
 - Responsive, festive design optimized for event visuals (mobile-first)
 - SEO-friendly for local event decoration/planning searches
 
